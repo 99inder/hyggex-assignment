@@ -21,7 +21,7 @@ const CardsNav = () => {
     }
 
     return (
-        <div className="mx-auto flex justify-between items-center w-1/2">
+        <div className="mx-auto flex justify-between items-center w-4/5 lg:w-2/3 xl:w-1/2">
             <img
                 src={reloadIcon}
                 alt="reload.svg"

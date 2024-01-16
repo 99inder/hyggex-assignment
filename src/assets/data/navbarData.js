@@ -1,15 +1,15 @@
 const data = [
     {
         title: "Home",
-        link: '/',
+        link: '#',
     },
     {
         title: "Flashcard",
-        link: '/',
+        link: '#',
     },
     {
         title: "Contact",
-        link: '/',
+        link: '#',
     },
     {
         title: "FAQ",
